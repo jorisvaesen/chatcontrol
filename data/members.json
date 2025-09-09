@@ -19,7 +19,7 @@
 
     {"name": "Rajae Maouane", "party": "ECOLO", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
     {"name": "Sarah Schlitz", "party": "ECOLO", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Saskia Bricmont", "party": "ECOLO", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
+    {"name": "Saskia Bricmont", "party": "ECOLO", "intention": "AGAINST", "parliament": "EUROPEAN", "source": "https://archive.is/20250822034038/https://www.humanite.fr/monde/commission-europeenne/chat-control-lue-ouvre-la-porte-a-la-surveillance-de-masse-au-nom-de-la-lutte-contre-la-pedocriminalite#selection-1377.0-1381.95"},
 
     {"name": "Staf Aerts", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
     {"name": "Meyrem Almaci", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
