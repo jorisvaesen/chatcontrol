@@ -1325,9 +1325,11 @@
         "intention": "AGAINST",
         "parliament": "EUROPEAN",
         "source": null,
-        "statement": "Ik ben <u>tegen</u> Chat Control. De regeling die voorligt, is een regeling die voorziet in het automatisch scannen van berichten van alle burgers, zelfs zonder enige verdenking en zelfs vóór encryptie wordt toegepast. Dit ondermijnt het fundamentele recht op privacy en maakt iedereen kwetsbaar voor misbruik en overheidscontrole. Zulke massasurveillance past niet in een vrije samenleving.",
-        "statement_date": "2025-09-10",
-        "statement_source": "by email"
+        "statement": {
+            "content": "Ik ben <u>tegen</u> Chat Control. De regeling die voorligt, is een regeling die voorziet in het automatisch scannen van berichten van alle burgers, zelfs zonder enige verdenking en zelfs vóór encryptie wordt toegepast. Dit ondermijnt het fundamentele recht op privacy en maakt iedereen kwetsbaar voor misbruik en overheidscontrole. Zulke massasurveillance past niet in een vrije samenleving.",
+            "date": "2025-09-10",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Tom Vandendriessche",
