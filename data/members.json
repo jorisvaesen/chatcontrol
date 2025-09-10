@@ -1,201 +1,1490 @@
 [
-    {"name": "Annelies Verlinden", "party": "CD_V", "intention": "IN_FAVOR", "parliament": "FEDERAL", "source": "https://www.hln.be/binnenland/annelies-verlinden-cdenv-en-child-focus-willen-fotos-die-je-verstuurt-scannen-op-kindermisbruik-er-is-geen-alternatief~a44f522c/"},
-    {"name": "Els Van Hoof", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Franky Demon", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Koen Van den Heuvel", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Leentje Grillaert", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nahima Lanjri", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nathalie Muylle", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nawal Farih", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Phaedra Van Keymolen", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sammy Mahdi", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Steven Matheï", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Tine Gielis", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Vincent Van Peteghem", "party": "CD_V", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Wouter Beke", "party": "CD_V", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Liesbet Sommen", "party": "CD_V", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "François De Smet", "party": "DEFI", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-
-    {"name": "Rajae Maouane", "party": "ECOLO", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sarah Schlitz", "party": "ECOLO", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Saskia Bricmont", "party": "ECOLO", "intention": "AGAINST", "parliament": "EUROPEAN", "source": "https://archive.is/20250822034038/https://www.humanite.fr/monde/commission-europeenne/chat-control-lue-ouvre-la-porte-a-la-surveillance-de-masse-au-nom-de-la-lutte-contre-la-pedocriminalite#selection-1377.0-1381.95"},
-
-    {"name": "Staf Aerts", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Meyrem Almaci", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Petra De Sutter", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Dieter Van Besien", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Matti Vandemaele", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Tinne Van der Straeten", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Stefaan Van Hecke", "party": "GROEN", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sara Matthieu", "party": "GROEN", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Anne Pirson", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Aurore Tourneur", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Benoît Lutgen", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Carmen Ramlot", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Isabelle Hansez", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ismaël Nuino", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Jean-Francois Gatelier", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Jean-Luc Crucke", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Julien Matagne", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Luc Frank", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Marc Lejeune", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Maxime Prévot", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Pierre Kompany", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Simon Dethier", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Stéphane Lasseaux", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Vanessa Matz", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Xavier Dubois", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Yvan Verougstraete", "party": "LES_ENGAGES", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Anthony Dufrane", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Benoît Piedboeuf", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Bernard Quintin", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Catherine Delcourt", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Charlotte Deborsu", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Christophe Bombled", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Daniel Bacquelaine", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "David Clarinval", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Denis Ducarme", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Eléonore Simonet", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Florence Reuter", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Georges-Louis Bouchez", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Gilles Foret", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Hervé Cornillie", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Julie Taton", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Mathieu Bihet", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Mathieu Michel", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Michel De Maegd", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Philippe Goffin", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Pierre Jadoul", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Pierre-Yves Jeholet", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Victoria Vandeberg", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Vincent Scourneau", "party": "MR", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sophie Wilmès", "party": "MR", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Benoit Cassart", "party": "MR", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Olivier Chastel", "party": "MR", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Anneleen Van Bossuyt", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Axel Ronse", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Bart De Wever", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Bert Wollants", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Charlotte Verkeyn", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Christoph D'Haese", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Darya Safai", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Dorien Cuylaerts", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Eva Demesmaeker", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Frieda Gijbels", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Jan Jambon", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Jeroen Bergers", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://x.com/jeroen_bergers/status/1959918664204845186"},
-    {"name": "Kathleen Depoorter", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Katrijn van Riet", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Koen Metsu", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Kristien Van Vaerenbergh", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Lieve Truyman", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Lotte Peeters", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Maaike De Vreese", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Michael Freilich", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Peter Buysrogge", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Peter De Roover", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Sophie De Wit", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Steven Vandeput", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Theo Francken", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://x.com/FranckenTheo/status/1960359458678145218"},
-    {"name": "Wim Van der Donckt", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Wouter Raskin", "party": "N_VA", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/"},
-    {"name": "Assita Kanko", "party": "N_VA", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Kris Van Dijck", "party": "N_VA", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Johan Van Overtveldt", "party": "N_VA", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Alexia Bertrand", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Steven Coenegrachts", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Alexander De Croo", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Irina De Knop", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Katja Gabriëls", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Kjell Vander Elst", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Vincent Van Quickenborne", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Paul Van Tigchelt", "party": "OPEN_VLD", "intention": "AGAINST", "parliament": "FEDERAL", "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten"},
-    {"name": "Hilde Vautmans", "party": "OPEN_VLD", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Caroline Désir", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Christophe Lacroix", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Dimitri Legasse", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Eric Thiébaut", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Frédéric Daerden", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Hugues Bayet", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ludivine Dedonder", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Lydia Mutyebele Ngoi", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Marie Meunier", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Patrick Prévot", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Paul Magnette", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Philippe Close", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Philippe Courard", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Pierre-Yves Dermagne", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ridouane Chahid", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sophie Thémont", "party": "PS", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Estelle Ceulemans", "party": "PS", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Elio Di Rupo", "party": "PS", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Kemal Bilmez", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nabil Boukili", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Greet Daems", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Roberto D'Amico", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Kim De Witte", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Natalie Eggermont", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Raoul Hedebouw", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Farah Jacquet", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sofie Merckx", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Peter Mertens", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nadia Moscufo", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Julien Ribaudo", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Robin Tonniau", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Annik Van den Bosch", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ayse Yigit", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Marc Botenga", "party": "PVD_A_PTB", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Katleen Bury", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ortwin Depoortere", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Marijke Dillen", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Britt Huybrechts", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Dieter Keuten", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Kurt Moons", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Barbara Pas", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Annick Ponthier", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Kurt Ravyts", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Ellen Samyn", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Werner Somers", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Dominiek Spinnewyn-Sneppe", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Frank Troosters", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Francesca Van Belleghem", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Alexander Van Hoecke", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Reccino Van Lommel", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Sam Van Rooy", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Kristien Verbelen", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Lode Vereeck", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Wouter Vermeersch", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Gerolf Annemans", "party": "VLAAMS_BELANG", "intention": "AGAINST", "parliament": "EUROPEAN", "source": "https://x.com/gannemans/status/1953133500174831883"},
-    {"name": "Barbara Bonte", "party": "VLAAMS_BELANG", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Tom Vandendriessche", "party": "VLAAMS_BELANG", "intention": "AGAINST", "parliament": "EUROPEAN", "source": "https://x.com/TomVandendriese/status/1958975927335211464"},
-
-    {"name": "Achraf El Yakhloufi", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Alain Yzermans", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Anja Vanrobaeys", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Annick Lambrecht", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Axel Weydts", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Brent Meuleman", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Fatima Lamarti", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Frank Vandenbroucke", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Funda Oru", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Jan Bertels", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Jeroen Soete", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Nele Daenen", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Niels Tas", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Oskar Seuntjens", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Rob Beenders", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "FEDERAL", "source": null},
-    {"name": "Kathleen Van Brempt", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-    {"name": "Bruno Tobback", "party": "VOORUIT", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Pascal Arimont", "party": "CSP_OSTBELGIEN", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null},
-
-    {"name": "Rudi Kennes", "party": "INDEPENDENT", "intention": "UNKNOWN", "parliament": "EUROPEAN", "source": null}
+    {
+        "name": "Annelies Verlinden",
+        "party": "CD_V",
+        "intention": "IN_FAVOR",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/binnenland/annelies-verlinden-cdenv-en-child-focus-willen-fotos-die-je-verstuurt-scannen-op-kindermisbruik-er-is-geen-alternatief~a44f522c/",
+        "statement": null
+    },
+    {
+        "name": "Els Van Hoof",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Franky Demon",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Koen Van den Heuvel",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Leentje Grillaert",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nahima Lanjri",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nathalie Muylle",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nawal Farih",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Phaedra Van Keymolen",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sammy Mahdi",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Steven Matheï",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Tine Gielis",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Vincent Van Peteghem",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Wouter Beke",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Liesbet Sommen",
+        "party": "CD_V",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "François De Smet",
+        "party": "DEFI",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Rajae Maouane",
+        "party": "ECOLO",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sarah Schlitz",
+        "party": "ECOLO",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Saskia Bricmont",
+        "party": "ECOLO",
+        "intention": "AGAINST",
+        "parliament": "EUROPEAN",
+        "source": "https://archive.is/20250822034038/https://www.humanite.fr/monde/commission-europeenne/chat-control-lue-ouvre-la-porte-a-la-surveillance-de-masse-au-nom-de-la-lutte-contre-la-pedocriminalite#selection-1377.0-1381.95",
+        "statement": null
+    },
+    {
+        "name": "Staf Aerts",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Meyrem Almaci",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Petra De Sutter",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Dieter Van Besien",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Matti Vandemaele",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Tinne Van der Straeten",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Stefaan Van Hecke",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sara Matthieu",
+        "party": "GROEN",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Anne Pirson",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Aurore Tourneur",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Benoît Lutgen",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Carmen Ramlot",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Isabelle Hansez",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ismaël Nuino",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Jean-Francois Gatelier",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Jean-Luc Crucke",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Julien Matagne",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Luc Frank",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Marc Lejeune",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Maxime Prévot",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Pierre Kompany",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Simon Dethier",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Stéphane Lasseaux",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Vanessa Matz",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Xavier Dubois",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Yvan Verougstraete",
+        "party": "LES_ENGAGES",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Anthony Dufrane",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Benoît Piedboeuf",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Bernard Quintin",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Catherine Delcourt",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Charlotte Deborsu",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Christophe Bombled",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Daniel Bacquelaine",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "David Clarinval",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Denis Ducarme",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Eléonore Simonet",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Florence Reuter",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Georges-Louis Bouchez",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Gilles Foret",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Hervé Cornillie",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Julie Taton",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Mathieu Bihet",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Mathieu Michel",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Michel De Maegd",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Philippe Goffin",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Pierre Jadoul",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Pierre-Yves Jeholet",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Victoria Vandeberg",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Vincent Scourneau",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sophie Wilmès",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Benoit Cassart",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Olivier Chastel",
+        "party": "MR",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Anneleen Van Bossuyt",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Axel Ronse",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Bart De Wever",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Bert Wollants",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Charlotte Verkeyn",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Christoph D'Haese",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Darya Safai",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Dorien Cuylaerts",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Eva Demesmaeker",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Frieda Gijbels",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Jan Jambon",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Jeroen Bergers",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://x.com/jeroen_bergers/status/1959918664204845186",
+        "statement": null
+    },
+    {
+        "name": "Kathleen Depoorter",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Katrijn van Riet",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Koen Metsu",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Kristien Van Vaerenbergh",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Lieve Truyman",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Lotte Peeters",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Maaike De Vreese",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Michael Freilich",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Peter Buysrogge",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Peter De Roover",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Sophie De Wit",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Steven Vandeput",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Theo Francken",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://x.com/FranckenTheo/status/1960359458678145218",
+        "statement": null
+    },
+    {
+        "name": "Wim Van der Donckt",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Wouter Raskin",
+        "party": "N_VA",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.hln.be/tech/n-va-verzet-zich-tegen-chat-control-monster-dat-inbreekt-in-je-privacy-en-niet-meer-getemd-wordt~a84cb9ed/",
+        "statement": null
+    },
+    {
+        "name": "Assita Kanko",
+        "party": "N_VA",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kris Van Dijck",
+        "party": "N_VA",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Johan Van Overtveldt",
+        "party": "N_VA",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Alexia Bertrand",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Steven Coenegrachts",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Alexander De Croo",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Irina De Knop",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Katja Gabriëls",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Kjell Vander Elst",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Vincent Van Quickenborne",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Paul Van Tigchelt",
+        "party": "OPEN_VLD",
+        "intention": "AGAINST",
+        "parliament": "FEDERAL",
+        "source": "https://www.openvld.be/eva-de-bleeker-de-overheid-heeft-geen-zaken-met-uw-priveberichten",
+        "statement": null
+    },
+    {
+        "name": "Hilde Vautmans",
+        "party": "OPEN_VLD",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Caroline Désir",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Christophe Lacroix",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Dimitri Legasse",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Eric Thiébaut",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Frédéric Daerden",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Hugues Bayet",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ludivine Dedonder",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Lydia Mutyebele Ngoi",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Marie Meunier",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Patrick Prévot",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Paul Magnette",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Philippe Close",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Philippe Courard",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Pierre-Yves Dermagne",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ridouane Chahid",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sophie Thémont",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Estelle Ceulemans",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Elio Di Rupo",
+        "party": "PS",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kemal Bilmez",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nabil Boukili",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Greet Daems",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Roberto D'Amico",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kim De Witte",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Natalie Eggermont",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Raoul Hedebouw",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Farah Jacquet",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sofie Merckx",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Peter Mertens",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nadia Moscufo",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Julien Ribaudo",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Robin Tonniau",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Annik Van den Bosch",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ayse Yigit",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Marc Botenga",
+        "party": "PVD_A_PTB",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Katleen Bury",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ortwin Depoortere",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Marijke Dillen",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Britt Huybrechts",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Dieter Keuten",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kurt Moons",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Barbara Pas",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Annick Ponthier",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kurt Ravyts",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Ellen Samyn",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Werner Somers",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Dominiek Spinnewyn-Sneppe",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Frank Troosters",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Francesca Van Belleghem",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Alexander Van Hoecke",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Reccino Van Lommel",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Sam Van Rooy",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kristien Verbelen",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Lode Vereeck",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Wouter Vermeersch",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Gerolf Annemans",
+        "party": "VLAAMS_BELANG",
+        "intention": "AGAINST",
+        "parliament": "EUROPEAN",
+        "source": "https://x.com/gannemans/status/1953133500174831883",
+        "statement": null
+    },
+    {
+        "name": "Barbara Bonte",
+        "party": "VLAAMS_BELANG",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": "Ik ben <u>tegen</u> Chat Control. De regeling die voorligt, is een regeling die voorziet in het automatisch scannen van berichten van alle burgers, zelfs zonder enige verdenking en zelfs vóór encryptie wordt toegepast. Dit ondermijnt het fundamentele recht op privacy en maakt iedereen kwetsbaar voor misbruik en overheidscontrole. Zulke massasurveillance past niet in een vrije samenleving."
+    },
+    {
+        "name": "Tom Vandendriessche",
+        "party": "VLAAMS_BELANG",
+        "intention": "AGAINST",
+        "parliament": "EUROPEAN",
+        "source": "https://x.com/TomVandendriese/status/1958975927335211464",
+        "statement": null
+    },
+    {
+        "name": "Achraf El Yakhloufi",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Alain Yzermans",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Anja Vanrobaeys",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Annick Lambrecht",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Axel Weydts",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Brent Meuleman",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Fatima Lamarti",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Frank Vandenbroucke",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Funda Oru",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Jan Bertels",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Jeroen Soete",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Nele Daenen",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Niels Tas",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Oskar Seuntjens",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Rob Beenders",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "FEDERAL",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Kathleen Van Brempt",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Bruno Tobback",
+        "party": "VOORUIT",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Pascal Arimont",
+        "party": "CSP_OSTBELGIEN",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    },
+    {
+        "name": "Rudi Kennes",
+        "party": "INDEPENDENT",
+        "intention": "UNKNOWN",
+        "parliament": "EUROPEAN",
+        "source": null,
+        "statement": null
+    }
 ]
