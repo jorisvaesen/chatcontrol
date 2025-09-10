@@ -1462,10 +1462,14 @@
     {
         "name": "Kathleen Van Brempt",
         "party": "VOORUIT",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "EUROPEAN",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Protecting children from sexual exploitation and abuse is and must remain an absolute priority. The material currently circulating online depicting child abuse is truly horrifying. Europe must act decisively against it.<br /><br />But that does not mean we should sacrifice the fundamental rights of millions of citizens. Privacy is a fundamental right. One that must always be protected. Let me therefore emphasise that we understand and take your concerns about the Chat Control proposal very seriously.<br /><br />Those concerns have also shaped the position of the European Parliament, which has taken a very different direction. Together with my colleagues, we’ve worked hard on a balanced position that both strengthens the protection of children and guarantees the privacy of ordinary people.<br /><br />Concretely, this means:<ul><li>End-to-end encryption must be preserved. We will not break it. That is a clear red line for us.</li><li>We focus on prevention. We want digital platforms to be designed with child safety in mind: with improved parental controls, age assurance, and reporting tools.</li><li>We reject mass surveillance. No one should have access to the content of private conversations. The position of Parliament does permit an analysis of metadata. Thanks to many responses from citizens, it has become clear that this still entails risks. We will raise this again with our rapporteur on the file.</li><li>We follow European jurisprudence. Everything we propose must fully comply with data protection laws, as guaranteed by the European Court of Justice.</li></ul>The file is currently being discussed by the Member States in the Council. They have yet to reach a common position. Only once they do, will negotiations with the Parliament begin.<br /><br />You can count on us to strongly defend the Parliament’s position in those negotiations. We must protect children — online and offline — but we can do that without violating the trust and privacy of our citizens.",
+            "date": "2025-08-22",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Bruno Tobback",
