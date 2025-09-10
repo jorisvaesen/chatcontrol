@@ -1,0 +1,13 @@
+{
+    "name": "jorisvaesen/chatcontrol",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joris Vaesen",
+            "email": "contribute@chatcontrol.be"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
