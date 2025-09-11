@@ -1316,8 +1316,12 @@
         "party": "VLAAMS_BELANG",
         "intention": "AGAINST",
         "parliament": "EUROPEAN",
-        "source": "https://x.com/gannemans/status/1953133500174831883",
-        "statement": null
+        "source": null,
+        "statement": {
+            "content": "Vlaams Belang heeft zich vanaf het begin duidelijk en publiek verzet tegen chat control. Wij hebben telkens opnieuw gewaarschuwd voor de gevaren van dit voorstel, lang voordat het in de media of publieke opinie echt aandacht kreeg. Die waarschuwingen zijn zwart op wit terug te vinden in ons persbericht van destijds: https://www.vlaamsbelang.org/nieuws/totalitaire-eu-wil-chatberichten-controleren.<br /><br />Wat nu op tafel ligt, is een systeem waarbij chatberichten van álle burgers, ook zonder enige verdenking, automatisch gescand kunnen worden, zelfs vóór encryptie wordt toegepast. Dat ondermijnt het fundamentele recht op privacy en maakt iedereen kwetsbaar voor misbruik, lekken of overheidscontrole. Zulke massasurveillance past niet in een vrije samenleving.<br /><br />Wat in 2021 nog werd voorgeschoteld als een tijdelijke en vrijwillige regeling die (online) seksueel misbruik van kinderen wilde aanpakken en die enkel bestaande opsporingstools toeliet en de encryptie volledig respecteerde (geen massascan), deint sinds 2022 uit in een totaal ander voorstel, dat scanning verplicht maakt en encryptie wil doorbreken. Vlaams Belang heeft dat steeds krachtig afgewezen.",
+            "date": "2025-08-19",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Barbara Bonte",
