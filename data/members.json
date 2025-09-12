@@ -1482,10 +1482,14 @@
     {
         "name": "Bruno Tobback",
         "party": "VOORUIT",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "EUROPEAN",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Privacy is a fundamental right. Protecting fundamental rights is a fundamental part of our democracy.<br />And of course, spreading child abuse images online must be tackled heads-on. There is no doubt about that. But you don't do that by allowing millions of citizens' private life's to be monitored. Protecting children and guaranteeing privacy can go hand in hand.<br /><br />The much-debated proposal that is been discussed by the Council today, unfortunately does neither. Parliament has charted a fundamentally different course in its position, namely:<br /><ul><li>End-to-end encryption will be retained. We will not break it open.</li><li>We will not organize mass surveillance. Private conversations are private, and they will remain so.</li><li>We will focus on prevention. Digital platforms must be designed to be child-safe. We will strengthen parental controls. We will review reporting buttons and increase the responsibility of platforms.</li><li>Always within the law. Everything must comply with the case law of the European Court of Justice.</li></ul>Today, the file is in the hands of the Member States. They must first reach an agreement on their position. As soon as negotiations with Parliament begin, you can be sure that we will vigorously defend our position. Because protecting children can, and must be possible, without sacrificing citizens' privacy.",
+            "date": "2025-09-02",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Pascal Arimont",
