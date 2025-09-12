@@ -660,8 +660,12 @@
         "party": "N_VA",
         "intention": "AGAINST",
         "parliament": "FEDERAL",
-        "source": "https://x.com/jeroen_bergers/status/1959918664204845186",
-        "statement": null
+        "source": "https://archive.is/MSdAZ",
+        "statement": {
+            "content": "Goed nieuws! Net op ons partijbestuur #chatcontrol besproken. Uiteraard wil ook @de_NVA kindermisbruik hard aanpakken, maar de inperking die chatcontrol op onze privacy vormt is op alle fronten verkeerd. Onze fractie zal dus tegenstemmen in het Europees parlement.<br /><br />Volgende stap: regeringspartners overtuigen om met ons land ook tegen te stemmen in de Raad. ✌",
+            "date": "2025-08-25",
+            "source": "URL"
+        }
     },
     {
         "name": "Kathleen Depoorter",
