@@ -1348,8 +1348,12 @@
         "party": "VLAAMS_BELANG",
         "intention": "AGAINST",
         "parliament": "EUROPEAN",
-        "source": "https://x.com/TomVandendriese/status/1958975927335211464",
-        "statement": null
+        "source": "https://archive.is/uOj6N",
+        "statement": {
+            "content": "De EU wil kunnen meelezen wat u met uw vrienden, familie of collega’s bespreekt via chatberichten. Ook de regering-De Wever blijkt voorstander van deze zogenaamde Chat Control. Het Vlaams Belang heeft altijd neen gezegd tegen deze totalitaire controle. Wij zijn meer dan ooit de verdediger van uw vrijheden. #chatcontrol",
+            "date": "2025-08-22",
+            "source": "URL"
+        }
     },
     {
         "name": "Achraf El Yakhloufi",
