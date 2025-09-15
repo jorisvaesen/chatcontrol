@@ -154,58 +154,92 @@
     {
         "name": "Staf Aerts",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Meyrem Almaci",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Petra De Sutter",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Dieter Van Besien",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Matti Vandemaele",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Tinne Van der Straeten",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": null,
+            "date": "2025-09-15",
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Stefaan Van Hecke"
+        }
     },
     {
         "name": "Stefaan Van Hecke",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Groen verzet zich tegen een algemene en ongedifferentieerde scan van de inhoud van berichten, of dat nu gebeurt door encryptie zelf te viseren, of berichten te scannen voor ze geëncrypteerd worden. Een dergelijke maatregel is niet proportioneel en niet efficiënt. En vooral een schendig van de mensenrechten. Deze positie werd ook duidelijk opgenomen in ons verkiezingsprogramma.",
+            "date": "2025-09-14",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Sara Matthieu",
@@ -1314,10 +1348,14 @@
     {
         "name": "Wouter Vermeersch",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Mijn standpunt is zonneklaar: ik zal tégen de ChatControl-wetgeving stemmen.<br /><br />Het Vlaams Belang verzet zich principieel tegen dit voorstel omdat het een grove schending inhoudt van de privacy en de vertrouwelijkheid van communicatie van alle burgers. <br /><br />Deze wet is niets minder dan een digitale Big Brother die alle burgers behandelt als potentiële criminelen. In plaats van criminelen en pedofielen aan te pakken, wil men miljoenen onschuldige Vlamingen bespioneren in hun privéberichten. Dat is waanzin, een regelrechte aanval op onze vrijheid.<br /><br />Wij pleiten daarentegen voor een kordaat beleid tegen kinderporno en misdaad, maar zonder de rechten en vrijheden van miljoenen onschuldige burgers op te offeren. Veiligheid moet met gezond verstand en gerichte maatregelen worden gegarandeerd, niet door iedereen onder permanente controle te zetten. Veiligheid kan nooit een excuus zijn voor totale controle. <br /><br />Wie in Europa denkt dat wij Vlamingen onze grondrechten zomaar inleveren, vergist zich zwaar!",
+            "date": "2025-09-14",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Gerolf Annemans",
