@@ -158,8 +158,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -171,8 +169,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -184,8 +180,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -197,8 +191,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -210,8 +202,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -223,8 +213,6 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": null,
-            "date": "2025-09-15",
             "source": "BY_PARTY_MEMBER",
             "source_member": "Stefaan Van Hecke"
         }
@@ -1192,34 +1180,46 @@
     {
         "name": "Katleen Bury",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Ortwin Depoortere",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Marijke Dillen",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Britt Huybrechts",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Dieter Keuten",
@@ -1236,114 +1236,157 @@
     {
         "name": "Kurt Moons",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Barbara Pas",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Vlaams Belang verzet zich principieel tegen Chat Control omdat het massasurveillance inhoudt en encryptie doorbreekt. Wij steunen enkel gerichte opsporing met gerechtelijk bevel en met respect voor privacy.",
+            "date": "2025-09-15",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Annick Ponthier",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Kurt Ravyts",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Ellen Samyn",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Werner Somers",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Dominiek Spinnewyn-Sneppe",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Frank Troosters",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Francesca Van Belleghem",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Alexander Van Hoecke",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Reccino Van Lommel",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Sam Van Rooy",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Kristien Verbelen",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Lode Vereeck",
         "party": "VLAAMS_BELANG",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "FEDERAL",
         "source": null,
-        "statement": null
+        "statement": {
+            "source": "BY_PARTY_MEMBER",
+            "source_member": "Barbara Pas"
+        }
     },
     {
         "name": "Wouter Vermeersch",
