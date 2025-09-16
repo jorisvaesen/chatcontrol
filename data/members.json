@@ -232,10 +232,14 @@
     {
         "name": "Sara Matthieu",
         "party": "GROEN",
-        "intention": "UNKNOWN",
+        "intention": "AGAINST",
         "parliament": "EUROPEAN",
         "source": null,
-        "statement": null
+        "statement": {
+            "content": "Net zoals mijn groene fractie in het Europees Parlement ben ik sinds het begin gekant tegen dit wetsvoorstel van de Europese Commissie. Hierbij deel ik vooral jouw bezorgdheid over de ernstige risico's op privacyschending, ik ben het hier helemaal met je eens. Mijn collega Patrick Breyer heeft als lid van onze fractie meegewerkt aan de positie van het Parlement. Daarin staat dat het scannen van berichten énkel mag bij personen die reeds verdacht zijn van misdrijven en dus in het kader van een gerechtelijk onderzoek. Het massaal scannen van versleutelde berichten van onschuldige burgers is een rode lijn voor mij. In de plaats daarvan wil mijn fractie platformen zoals WhatsApp, Signal en talloze andere internetkanalen zo omvormen dat ze kindermisbruik zoveel mogelijk voorkomen.<br /><br />De Europese lidstaten zijn onderling verdeeld en slagen er niet in om tot één standpunt te komen. Denemarken, de huidige voorzitter van Europa, zal alsnog proberen lidstaten op één lijn te krijgen. Gelukkig zijn er tal van landen die ook tegen dit voorstel gekant zijn. Daarom is jullie druk ontzettend belangrijk, zodat onze privacy verzekerd blijft en dit wetsvoorstel sneuvelt.<br /><br />Massasurveillance is niet het juiste antwoord op de strijd tegen verspreiding van kindermisbruik. Ook wij willen geen superstaat zoals China die meekijkt over onze schouders en het systeem kan misbruiken om burgers te onderdrukken.<br /><br />Uiteraard is het welzijn en de veiligheid van kinderen een topprioriteit. Onze fractie steunt dan ook ten volle de nieuwe richtlijn voor de strijd tegen kindermisbruik en seksuele uitbuiting van kinderen die quasi unanieme steun kreeg van het Parlement.",
+            "date": "2025-09-15",
+            "source": "BY_EMAIL"
+        }
     },
     {
         "name": "Anne Pirson",
@@ -1228,7 +1232,7 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "content": "Stemintentie: tegen<br /><br />Toelichting: Vlaams Belang verzet zich al sinds 2022 actief tegen het totalitaire voorstel van de Europese commissie om onder het voorwendsel van de strijd tegen kinderporno op massale schaal berichten in te lezen. Een logisch vervolg op onze eerdere strijd tegen digitale censuur en surveillance. Wij kiezen resoluut voor vrijheid & privacy en leiden het politiek verzet tegen totalitaire controlesystemen.  \nhttps://www.vlaamsbelang.org/nieuws/vlaams-belang-leidt-europees-verzet-met-brief-van-50-europarlementsleden-tegen-chat-control<br /><br />Nuance: leeftijdsverificatiesystemen an sich, op Europees en nationaal niveau, kunnen bijdragen aan meer veiligheid online. De harmonisatie en erkenning van reeds bestaande tools kan verbeterd worden. De overheid moet dit faciliteren en het regelgevend kader verduidelijken. We verzetten ons tegen leeftijdsverificatiesystemen als deze deel uitmaken van massale surveillancemaatregelen zoals EU Chat Control, waarbij de privacy van alle burgers in het gedrang komt.",
+            "content": "Vlaams Belang verzet zich al sinds 2022 actief tegen het totalitaire voorstel van de Europese commissie om onder het voorwendsel van de strijd tegen kinderporno op massale schaal berichten in te lezen. Een logisch vervolg op onze eerdere strijd tegen digitale censuur en surveillance. Wij kiezen resoluut voor vrijheid & privacy en leiden het politiek verzet tegen totalitaire controlesystemen.  \nhttps://www.vlaamsbelang.org/nieuws/vlaams-belang-leidt-europees-verzet-met-brief-van-50-europarlementsleden-tegen-chat-control<br /><br />Nuance: leeftijdsverificatiesystemen an sich, op Europees en nationaal niveau, kunnen bijdragen aan meer veiligheid online. De harmonisatie en erkenning van reeds bestaande tools kan verbeterd worden. De overheid moet dit faciliteren en het regelgevend kader verduidelijken. We verzetten ons tegen leeftijdsverificatiesystemen als deze deel uitmaken van massale surveillancemaatregelen zoals EU Chat Control, waarbij de privacy van alle burgers in het gedrang komt.",
             "date": "2025-09-12",
             "source": "BY_EMAIL"
         }
@@ -1307,8 +1311,9 @@
         "parliament": "FEDERAL",
         "source": null,
         "statement": {
-            "source": "BY_PARTY_MEMBER",
-            "source_member": "Barbara Pas"
+            "content": "De overheid heeft geen zaken met wat de burger in privéchats schrijft. Als dit wordt ingevoerd stevenen we af op een “big brothermaatschappij”. Recht op privacy is dan niets meer dan een vodje papier. In naam van de “vrijheid, veiligheid, gezondheid, ...” wordt chatcontrol voorgesteld als iets waar je toch niet tegen kunt zijn. Zo is dat ook, als de overheid natuurlijk 100% betrouwbaar is, helaas is dat een naïeve utopie. Chatcontrol is macht en op een dag ondanks de mooie intenties wordt het machtsmisbruik (cfr China en andere totalitaire regimes). Ipv miljoenen onschuldige mensen te viseren en te controleren moet de overheid inzetten op het opsporen van criminelen allerhande (kinderporno, drugs- en wapenhandel, ...).",
+            "date": "2025-09-16",
+            "source": "BY_EMAIL"
         }
     },
     {
