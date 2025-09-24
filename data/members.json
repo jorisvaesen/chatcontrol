@@ -794,8 +794,12 @@
         "party": "N_VA",
         "intention": "AGAINST",
         "parliament": "FEDERAL",
-        "source": "https://x.com/FranckenTheo/status/1960359458678145218",
-        "statement": null
+        "source": "https://archive.is/O9fvk",
+        "statement": {
+            "content": "We steunen de strijd tegen kindermisbruik. Het voorstel over CHAT CONTROL zullen we echter niet steunen. Goed bedoeld maar disproportioneel.",
+            "date": "2025-08-26",
+            "source": "URL"
+        }
     },
     {
         "name": "Wim Van der Donckt",
